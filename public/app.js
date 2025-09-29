@@ -61,11 +61,21 @@ function render(items) {
     const actions = document.createElement('div');
     actions.className = 'actions';
     const aView = document.createElement('a');
-    aView.href = it.url;
-    aView.target = '_blank';
-    aView.rel = 'noopener noreferrer';
     aView.className = 'btn';
-    aView.textContent = it.type === 'pdf' ? 'Open PDF' : 'Open';
+    if (it.type === 'audio') {
+      const qs = new URLSearchParams({
+        src: it.url,
+        title: it.title,
+        category: it.category,
+      }).toString();
+      aView.href = `./play.html?${qs}`;
+      aView.textContent = 'Play';
+    } else {
+      aView.href = it.url;
+      aView.target = '_blank';
+      aView.rel = 'noopener noreferrer';
+      aView.textContent = 'Open PDF';
+    }
     actions.appendChild(aView);
     card.appendChild(title);
     card.appendChild(meta);

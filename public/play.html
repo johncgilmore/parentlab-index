@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Play • Parent Lab</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <style>
+      .container { max-width: 900px; margin: 32px auto; padding: 0 16px; }
+      .hero { background: var(--panel); border: 1px solid #1c2533; border-radius: 14px; padding: 20px; }
+      .breadcrumbs { color: var(--muted); font-size: 12px; margin-bottom: 8px; }
+      .title { font-size: 22px; font-weight: 700; margin: 6px 0 14px 0; }
+      .player { background: #0e1420; border: 1px solid #223048; border-radius: 12px; padding: 16px; }
+      audio { width: 100%; outline: none; }
+      .note { margin-top: 16px; color: var(--muted); font-size: 13px; }
+      .actions { margin-top: 16px; display: flex; gap: 10px; }
+      .btn.primary { background: #1a2a44; border-color: #2a3a52; }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="hero">
+        <div class="breadcrumbs" id="crumbs"></div>
+        <div class="title" id="title">Loading…</div>
+        <div class="player">
+          <audio id="audio" controls preload="metadata"></audio>
+        </div>
+        <div class="actions">
+          <a id="openExternal" class="btn" target="_blank" rel="noopener noreferrer">Open Source File</a>
+        </div>
+        <div class="note">
+          This content was created by the team at Parent Lab and is made available through a modified Creative Commons license (see the repository for licensing details).
+        </div>
+      </div>
+    </div>
+
+    <script>
+      function qs(name) {
+        const p = new URLSearchParams(location.search);
+        return p.get(name) || '';
+      }
+      (function init() {
+        const src = qs('src');
+        const title = qs('title');
+        const category = qs('category');
+        const audio = document.getElementById('audio');
+        const titleEl = document.getElementById('title');
+        const crumbs = document.getElementById('crumbs');
+        const openExternal = document.getElementById('openExternal');
+
+        // Set UI
+        titleEl.textContent = title || 'Audio';
+        crumbs.textContent = category ? `Podcasts › ${category}` : 'Podcasts';
+        openExternal.href = src;
+
+        // Configure audio source
+        if (src) {
+          audio.setAttribute('src', src);
+        } else {
+          const fallback = document.createElement('div');
+          fallback.className = 'note';
+          fallback.textContent = 'No audio source provided.';
+          document.querySelector('.hero').appendChild(fallback);
+        }
+      })();
+    </script>
+  </body>
+  </html>
+
+
