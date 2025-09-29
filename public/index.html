@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Parent Lab Dataset - Searchable Index</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="https://unpkg.com/fuse.js@6.6.2/dist/fuse.min.js"></script>
+  </head>
+  <body>
+    <header class="header">
+      <h1>Parent Lab - Searchable Index</h1>
+      <div class="controls">
+        <input id="searchInput" type="search" placeholder="Search title, category, collection..." />
+        <select id="collectionFilter">
+          <option value="">All Collections</option>
+          <option value="podcasts">Podcasts</option>
+          <option value="quizzes">Quizzes</option>
+        </select>
+        <label class="chk"><input type="checkbox" id="typeAudio" checked /> Audio</label>
+        <label class="chk"><input type="checkbox" id="typePdf" checked /> PDF</label>
+      </div>
+      <div id="resultCount" class="result-count"></div>
+    </header>
+
+    <main>
+      <div id="grid" class="grid"></div>
+    </main>
+
+    <footer class="footer">
+      <span>
+        Data is generated from the Hugging Face dataset repo tree and uses on-demand streaming links.
+      </span>
+    </footer>
+
+    <script src="./app.js"></script>
+  </body>
+  </html>
+
+

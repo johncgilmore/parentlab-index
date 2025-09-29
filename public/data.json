@@ -1,0 +1,1758 @@
+[
+  {
+    "path": ".gitattributes",
+    "size": 33977
+  },
+  {
+    "path": "LICENSE",
+    "size": 1406
+  },
+  {
+    "path": "README.md",
+    "size": 2865
+  },
+  {
+    "path": "assets/.DS_Store",
+    "size": 6148
+  },
+  {
+    "path": "assets/courses/Appropriate Boundaries.pdf",
+    "size": 134042
+  },
+  {
+    "path": "assets/courses/Creating a Secure Attachment.pdf",
+    "size": 180095
+  },
+  {
+    "path": "assets/courses/Emotional Connection.pdf",
+    "size": 128250
+  },
+  {
+    "path": "assets/courses/Managing Screen Time.pdf",
+    "size": 115823
+  },
+  {
+    "path": "assets/courses/Meltdowns Decoded.pdf",
+    "size": 246872
+  },
+  {
+    "path": "assets/courses/Mindful Expectations.pdf",
+    "size": 115796
+  },
+  {
+    "path": "assets/courses/Nurtured Independence.pdf",
+    "size": 148034
+  },
+  {
+    "path": "assets/courses/Safe Environment.pdf",
+    "size": 97478
+  },
+  {
+    "path": "assets/courses/Understanding Temperaments.pdf",
+    "size": 97000
+  },
+  {
+    "path": "assets/courses/Unlocking the 5 Elements of Secure Attachment.pdf",
+    "size": 60486
+  },
+  {
+    "path": "assets/courses/Why_s My Kid a Picky Eater_.pdf",
+    "size": 201373
+  },
+  {
+    "path": "assets/meditations/Calming Moments with Kids/Animal Meditation.mp3",
+    "size": 23382790
+  },
+  {
+    "path": "assets/meditations/Calming Moments with Kids/Balloon Breathing Meditation.mp3",
+    "size": 12181510
+  },
+  {
+    "path": "assets/meditations/Calming Moments with Kids/Grateful Train Meditation.mp3",
+    "size": 18436870
+  },
+  {
+    "path": "assets/meditations/Calming Moments with Kids/Humming Meditation.mp3",
+    "size": 15878470
+  },
+  {
+    "path": "assets/meditations/Calming Moments with Kids/Warm Bear Hug Meditation.mp3",
+    "size": 17772550
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/.DS_Store",
+    "size": 6148
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Affirmation Being Present is a Priority.mp3",
+    "size": 15225670
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Affirmation Boundaries Are Critical.mp3",
+    "size": 14039110
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Affirmation Feeling at Ease Is Your Foundation.mp3",
+    "size": 16878790
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Affirmation I_ll Simplify My Focus.mp3",
+    "size": 14416390
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Affirmation I_m Their Haven.mp3",
+    "size": 11495110
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Affirmation Mistakes Are Opportunities.mp3",
+    "size": 14388550
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Affirmation Seek to Understand First.mp3",
+    "size": 15709510
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Affirmation Tap into your Calm.mp3",
+    "size": 17815750
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Affirmation They Need My Calm.mp3",
+    "size": 13571590
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Affirmation They_re Still Growing.mp3",
+    "size": 14896390
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Affirmation Your Abiding Connection with Your Child.mp3",
+    "size": 14387590
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Being Good Enough.mp3",
+    "size": 16470790
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Coming Back From Overwhelm.mp3",
+    "size": 7423750
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Connecting With Love.mp3",
+    "size": 6968710
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Connecting to My Child.mp3",
+    "size": 7832710
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Creating a Legacy of Love.mp3",
+    "size": 15906310
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Cultivating Resilience in Uncertain Times.mp3",
+    "size": 11948229
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Cultivating Self-Compassion (long).mp3",
+    "size": 25206848
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Cultivating Self-Compassion (short).mp3",
+    "size": 12432128
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Embracing Imperfection.mp3",
+    "size": 7605190
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Finding Patience & Calm.mp3",
+    "size": 20449030
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Finding Patience.mp3",
+    "size": 7468840
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Finding Your Anchor (long).mp3",
+    "size": 24327488
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Finding Your Anchor (short).mp3",
+    "size": 12528128
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Finding Your Calm Center (long).mp3",
+    "size": 24653888
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Finding Your Calm Center (short).mp3",
+    "size": 12351488
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Grounding When You Feel Untethered.mp3",
+    "size": 31447808
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Inhaling Peace, Exhaling Presence.mp3",
+    "size": 7497670
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Loving ALL of My Child.mp3",
+    "size": 17244550
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Mindfulness in the Body Feet.mp3",
+    "size": 12248709
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/S.O.S! I_ve Lost My Cool.mp3",
+    "size": 22190440
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Stop Yelling, Start Centering.mp3",
+    "size": 13059910
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Transform Yelling Energy.mp3",
+    "size": 5509510
+  },
+  {
+    "path": "assets/meditations/Mindfulness Practices/Visualizing a Loving Day Ahead.mp3",
+    "size": 21876550
+  },
+  {
+    "path": "assets/pathways/BASiC Needs for a Secure Attachment.pdf",
+    "size": 128897
+  },
+  {
+    "path": "assets/pathways/Benefits of Journaling.pdf",
+    "size": 95992
+  },
+  {
+    "path": "assets/pathways/Family Connection_ Adding Rituals to your Routines.pdf",
+    "size": 126031
+  },
+  {
+    "path": "assets/pathways/MVP Parenting Affirmations (Alternative).pdf",
+    "size": 91920
+  },
+  {
+    "path": "assets/pathways/PW Connecting with Teens.pdf",
+    "size": 144683
+  },
+  {
+    "path": "assets/pathways/PW_ Boundaries for Teens.pdf",
+    "size": 130921
+  },
+  {
+    "path": "assets/pathways/PW_ Child Development (12–18 Months).pdf",
+    "size": 52693
+  },
+  {
+    "path": "assets/pathways/PW_ Child Development (7-9 Months).pdf",
+    "size": 148604
+  },
+  {
+    "path": "assets/pathways/PW_ Child Development 18-24 months.pdf",
+    "size": 100886
+  },
+  {
+    "path": "assets/pathways/PW_ Child Development 4-6 months.pdf",
+    "size": 145616
+  },
+  {
+    "path": "assets/pathways/PW_ Child Development 9-12 months.pdf",
+    "size": 47982
+  },
+  {
+    "path": "assets/pathways/PW_ Child Development Age 0-3 Weeks.pdf",
+    "size": 180447
+  },
+  {
+    "path": "assets/pathways/PW_ Child Development Age 1.pdf",
+    "size": 240499
+  },
+  {
+    "path": "assets/pathways/PW_ Child Development Age 2.pdf",
+    "size": 237343
+  },
+  {
+    "path": "assets/pathways/PW_ Child Development Age 3 weeks-2 months.pdf",
+    "size": 151111
+  },
+  {
+    "path": "assets/pathways/PW_ Child Development Age 5.pdf",
+    "size": 160176
+  },
+  {
+    "path": "assets/pathways/PW_ Child Development Age 6.pdf",
+    "size": 169085
+  },
+  {
+    "path": "assets/pathways/PW_ Child Development Age 9.pdf",
+    "size": 212698
+  },
+  {
+    "path": "assets/pathways/PW_ Child Development Ages 13-15.pdf",
+    "size": 171113
+  },
+  {
+    "path": "assets/pathways/PW_ Child Development Ages 16-18.pdf",
+    "size": 157730
+  },
+  {
+    "path": "assets/pathways/PW_ Child Development age 10-12.pdf",
+    "size": 212100
+  },
+  {
+    "path": "assets/pathways/PW_ Child Development-Age 3.pdf",
+    "size": 190838
+  },
+  {
+    "path": "assets/pathways/PW_ Child Development-Age 4.pdf",
+    "size": 195094
+  },
+  {
+    "path": "assets/pathways/PW_ Child Development-Age 8.pdf",
+    "size": 146698
+  },
+  {
+    "path": "assets/pathways/PW_ Honing Your Intuition (Tools for Parents) Pathway.pdf",
+    "size": 106268
+  },
+  {
+    "path": "assets/pathways/PW_ Using the Bracelet.pdf",
+    "size": 94025
+  },
+  {
+    "path": "assets/pathways/PW_Child Development Age 7.pdf",
+    "size": 162369
+  },
+  {
+    "path": "assets/pathways/Pathway to Autonomy.pdf",
+    "size": 115986
+  },
+  {
+    "path": "assets/pathways/Pathway_ Being a Playful Guide.pdf",
+    "size": 1875213
+  },
+  {
+    "path": "assets/pathways/Pathway_ Choices for Children.pdf",
+    "size": 109733
+  },
+  {
+    "path": "assets/pathways/Pathway_ Chores with Children.pdf",
+    "size": 101002
+  },
+  {
+    "path": "assets/pathways/Pathway_ Guided Parenting_ Your Role.pdf",
+    "size": 169728
+  },
+  {
+    "path": "assets/pathways/Pathway_ Learning to Share.pdf",
+    "size": 115927
+  },
+  {
+    "path": "assets/pathways/Pathway_ Observations.pdf",
+    "size": 95207
+  },
+  {
+    "path": "assets/pathways/Pathway_ Scheduled Connection.pdf",
+    "size": 120260
+  },
+  {
+    "path": "assets/pathways/Pathway_ The Power of Routines.pdf",
+    "size": 110069
+  },
+  {
+    "path": "assets/pathways/Pathway_ Why Toddlers Misbehave.pdf",
+    "size": 155810
+  },
+  {
+    "path": "assets/pathways/Reflection (MVP).pdf",
+    "size": 84141
+  },
+  {
+    "path": "assets/pathways/Understanding Your Past.pdf",
+    "size": 122810
+  },
+  {
+    "path": "assets/pathways/Walking Meditations (Active).pdf",
+    "size": 90447
+  },
+  {
+    "path": "assets/podcasts/.DS_Store",
+    "size": 6148
+  },
+  {
+    "path": "assets/podcasts/Anxiety 101/.DS_Store",
+    "size": 6148
+  },
+  {
+    "path": "assets/podcasts/Anxiety 101/E01 What, Exactly, is Anxiety_.mp3",
+    "size": 32548916
+  },
+  {
+    "path": "assets/podcasts/Anxiety 101/E02 Anxiety isn_t a Verdict.mp3",
+    "size": 35289728
+  },
+  {
+    "path": "assets/podcasts/Anxiety 101/E03 Empathy_ Parenting_s Superpower.mp3",
+    "size": 14738159
+  },
+  {
+    "path": "assets/podcasts/Anxiety 101/E04 Tools for Anxious Parents.mp3",
+    "size": 32636288
+  },
+  {
+    "path": "assets/podcasts/Anxiety 101/E05 When Your Kids Need a Lifeline.mp3",
+    "size": 10849217
+  },
+  {
+    "path": "assets/podcasts/Anxiety 101/E06 Tools for Anxious Kids.mp3",
+    "size": 35274800
+  },
+  {
+    "path": "assets/podcasts/Anxiety 101/E07 Managing Separation Anxiety (Age 0-5).mp3",
+    "size": 12913784
+  },
+  {
+    "path": "assets/podcasts/Anxiety 101/E08 Puberty_s Emotional Rollercoaster (Age 6-9).mp3",
+    "size": 13968794
+  },
+  {
+    "path": "assets/podcasts/Anxiety 101/Transcripts/E01 What, Exactly, is Anxiety_.pdf",
+    "size": 159656
+  },
+  {
+    "path": "assets/podcasts/Anxiety 101/Transcripts/E02 Anxiety isn_t a Verdict.pdf",
+    "size": 174815
+  },
+  {
+    "path": "assets/podcasts/Anxiety 101/Transcripts/E03 Empathy_ Parenting_s Superpower.pdf",
+    "size": 166099
+  },
+  {
+    "path": "assets/podcasts/Anxiety 101/Transcripts/E04 Tools for Anxious Parents.pdf",
+    "size": 181014
+  },
+  {
+    "path": "assets/podcasts/Anxiety 101/Transcripts/E05 When Your Kids Need a Lifeline.pdf",
+    "size": 139412
+  },
+  {
+    "path": "assets/podcasts/Anxiety 101/Transcripts/E06 Tools for Anxious Kids.pdf",
+    "size": 148312
+  },
+  {
+    "path": "assets/podcasts/Anxiety 101/Transcripts/E07 Managing Separation Anxiety (Age 0-5).pdf",
+    "size": 132439
+  },
+  {
+    "path": "assets/podcasts/Anxiety 101/Transcripts/E08 Puberty_s Emotional Rollercoaster (Age 6-9).pdf",
+    "size": 171732
+  },
+  {
+    "path": "assets/podcasts/Apparently So/Apparently_So_A Safety Net for Digital Kids.mp3",
+    "size": 45759400
+  },
+  {
+    "path": "assets/podcasts/Apparently So/Apparently_So_How Kids Develop Their Fears.mp3",
+    "size": 43754939
+  },
+  {
+    "path": "assets/podcasts/Apparently So/Apparently_So_Navigating the Sensory World of Children.mp3",
+    "size": 48385019
+  },
+  {
+    "path": "assets/podcasts/Apparently So/Apparently_So_Testing the Waters of Independence.mp3",
+    "size": 29268520
+  },
+  {
+    "path": "assets/podcasts/Apparently So/Apparently_So_The Favoritism Tightrope.mp3",
+    "size": 39652859
+  },
+  {
+    "path": "assets/podcasts/Apparently So/Apparently_So_The Profound Impact of Pets.mp3",
+    "size": 56284840
+  },
+  {
+    "path": "assets/podcasts/Apparently So/Apparently_So_Tiger Moms and Elephant Moms.mp3",
+    "size": 43391080
+  },
+  {
+    "path": "assets/podcasts/Apparently So/Apparently_So_Using Creativity to Strengthen Bonds.mp3",
+    "size": 49997800
+  },
+  {
+    "path": "assets/podcasts/Apparently So/Apparentlys_So_Behind the Veil of Invisible Labor.mp3",
+    "size": 36109480
+  },
+  {
+    "path": "assets/podcasts/Apparently So/Transcripts/A Safety Net for Digital Kids.pdf",
+    "size": 202506
+  },
+  {
+    "path": "assets/podcasts/Apparently So/Transcripts/Behind the Veil of Invisible Labor.pdf",
+    "size": 234372
+  },
+  {
+    "path": "assets/podcasts/Apparently So/Transcripts/How Kids Develop Their Fears.pdf",
+    "size": 199642
+  },
+  {
+    "path": "assets/podcasts/Apparently So/Transcripts/Navigating the Sensory World of Children.pdf",
+    "size": 206558
+  },
+  {
+    "path": "assets/podcasts/Apparently So/Transcripts/Testing the Waters of Independence.pdf",
+    "size": 170514
+  },
+  {
+    "path": "assets/podcasts/Apparently So/Transcripts/The Favoritism Tightrope.pdf",
+    "size": 245072
+  },
+  {
+    "path": "assets/podcasts/Apparently So/Transcripts/The Profound Impact of Pets.pdf",
+    "size": 286447
+  },
+  {
+    "path": "assets/podcasts/Apparently So/Transcripts/Tiger Moms and Elephant Moms.pdf",
+    "size": 243114
+  },
+  {
+    "path": "assets/podcasts/Apparently So/Transcripts/Using Creativity to Strengthen Bonds.pdf",
+    "size": 196738
+  },
+  {
+    "path": "assets/podcasts/Baby Sleep_ Myths & Methods/1 Sleepless Parent Survival.mp3",
+    "size": 27422876
+  },
+  {
+    "path": "assets/podcasts/Baby Sleep_ Myths & Methods/2 Master the Bedtime Routine.mp3",
+    "size": 23450456
+  },
+  {
+    "path": "assets/podcasts/Baby Sleep_ Myths & Methods/3 Tackling Common Sleep Issues.mp3",
+    "size": 29506700
+  },
+  {
+    "path": "assets/podcasts/Baby Sleep_ Myths & Methods/4 Is Sleep Training Safe.mp3",
+    "size": 34422896
+  },
+  {
+    "path": "assets/podcasts/Baby Sleep_ Myths & Methods/5 Demystifying SIDS Fears.mp3",
+    "size": 30667628
+  },
+  {
+    "path": "assets/podcasts/Baby Sleep_ Myths & Methods/6 Healthy Sleep for Grownups.mp3",
+    "size": 28876124
+  },
+  {
+    "path": "assets/podcasts/Baby Sleep_ Myths & Methods/Transcripts/E01 Sleepless Parent Survival.pdf",
+    "size": 176569
+  },
+  {
+    "path": "assets/podcasts/Baby Sleep_ Myths & Methods/Transcripts/E02 Master the Bedtime Routine.pdf",
+    "size": 143072
+  },
+  {
+    "path": "assets/podcasts/Baby Sleep_ Myths & Methods/Transcripts/E03 Tackling Common Sleep Issues.pdf",
+    "size": 160899
+  },
+  {
+    "path": "assets/podcasts/Baby Sleep_ Myths & Methods/Transcripts/E04 Is Sleep Training Safe_.pdf",
+    "size": 186291
+  },
+  {
+    "path": "assets/podcasts/Baby Sleep_ Myths & Methods/Transcripts/E05 Demystifying SIDS Fears.pdf",
+    "size": 248503
+  },
+  {
+    "path": "assets/podcasts/Baby Sleep_ Myths & Methods/Transcripts/E06 Healthy Sleep for Grownups.pdf",
+    "size": 136862
+  },
+  {
+    "path": "assets/podcasts/Bedtime Stories/Emilio_s Tall Tales.mp3",
+    "size": 37167444
+  },
+  {
+    "path": "assets/podcasts/Bedtime Stories/Juno_Steps_In_v1.mp3",
+    "size": 36692288
+  },
+  {
+    "path": "assets/podcasts/Bedtime Stories/Marisol_s Stone.mp3",
+    "size": 36411008
+  },
+  {
+    "path": "assets/podcasts/Bedtime Stories/The Secret Party.mp3",
+    "size": 36757568
+  },
+  {
+    "path": "assets/podcasts/Bedtime Stories/Transcripts/Emilio_s Tall Tales.pdf",
+    "size": 64711
+  },
+  {
+    "path": "assets/podcasts/Bedtime Stories/Transcripts/Juno Steps In.pdf",
+    "size": 81865
+  },
+  {
+    "path": "assets/podcasts/Bedtime Stories/Transcripts/Marisol_s Stone.pdf",
+    "size": 69227
+  },
+  {
+    "path": "assets/podcasts/Bedtime Stories/Transcripts/The Secret Party.pdf",
+    "size": 95582
+  },
+  {
+    "path": "assets/podcasts/Bedtime Stories/Transcripts/Yuki and the Silver Stream .pdf",
+    "size": 62880
+  },
+  {
+    "path": "assets/podcasts/Bedtime Stories/Yuki and the Silver Stream.mp3",
+    "size": 36640448
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/1 Demystifying Bullying 0-5.mp3",
+    "size": 30699992
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/1 Demystifying Bullying 10-12.mp3",
+    "size": 29258228
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/1 Demystifying Bullying 6-9.mp3",
+    "size": 33053168
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/2 Creating a Safe Haven 0-5.mp3",
+    "size": 32709692
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/2 The Three Bs of Bullying 6-12.mp3",
+    "size": 35365628
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/3 Creating a Safe Haven 6-12.mp3",
+    "size": 12975917
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/3 Empathy Bullying_s Antidote 0-5.mp3",
+    "size": 28634960
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/4 It Takes a Village From Home to School 6-12.mp3",
+    "size": 13661048
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/5 See Something, Say Something 6-12.mp3",
+    "size": 15015047
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/6 Tackling Cyber bullying 9-12.mp3",
+    "size": 35922080
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/Transcripts/Creating a Safe Haven 0-5.pdf",
+    "size": 88553
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/Transcripts/Creating a Safe Haven 6-12.pdf",
+    "size": 94973
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/Transcripts/Demystifying Bullying 0-5.pdf",
+    "size": 92320
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/Transcripts/Demystifying Bullying 10-12.pdf",
+    "size": 117639
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/Transcripts/Demystifying Bullying 6-9.pdf",
+    "size": 159512
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/Transcripts/Empathy_ Bullying_s Antidote 0-5.pdf",
+    "size": 68432
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/Transcripts/It Takes a Village_ From Home to School 6-12.pdf",
+    "size": 131604
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/Transcripts/See Something, Say Something 6-12.pdf",
+    "size": 119018
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/Transcripts/Tackling Cyber bullying 9-12.pdf",
+    "size": 132983
+  },
+  {
+    "path": "assets/podcasts/Bullying_ Recognizing & Resolving/Transcripts/The Three Bs of Bullying 6-12.pdf",
+    "size": 147505
+  },
+  {
+    "path": "assets/podcasts/Cooking with Kids/1 Building Kitchen Skills Early 0-5.mp3",
+    "size": 13726934
+  },
+  {
+    "path": "assets/podcasts/Cooking with Kids/2 Kitchen Math for Kids.mp3",
+    "size": 13447544
+  },
+  {
+    "path": "assets/podcasts/Cooking with Kids/3 Child-Safe Food Prep.mp3",
+    "size": 10362578
+  },
+  {
+    "path": "assets/podcasts/Cooking with Kids/4 Cultivating Culinary Independence.mp3",
+    "size": 9891368
+  },
+  {
+    "path": "assets/podcasts/Cooking with Kids/Transcripts/1 Building Kitchen Skills Early.pdf",
+    "size": 110134
+  },
+  {
+    "path": "assets/podcasts/Cooking with Kids/Transcripts/2 Kitchen Math for Kids.pdf",
+    "size": 107126
+  },
+  {
+    "path": "assets/podcasts/Cooking with Kids/Transcripts/3 Child-Safe Food Prep.pdf",
+    "size": 101570
+  },
+  {
+    "path": "assets/podcasts/Cooking with Kids/Transcripts/4 Cultivating Culinary Independence.pdf",
+    "size": 84779
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC Balancing Blended Families.mp3",
+    "size": 76065728
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC Body Boundaries & Sexuality.mp3",
+    "size": 70662848
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC Bringing Home Baby.mp3",
+    "size": 71741888
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC Connecting While Burned Out.mp3",
+    "size": 71050688
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC Dealing with School Shootings.mp3",
+    "size": 107809088
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC Does Handwriting Have You Wringing Your Hands.mp3",
+    "size": 72134528
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC Extracurriculars To Push or Not to Push.mp3",
+    "size": 73109888
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC How Do I Get My Kid to Eat.mp3",
+    "size": 72262208
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC How to Get Your Kid to Listen.mp3",
+    "size": 50222528
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC How to Help Babies Sleep.mp3",
+    "size": 58049408
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC How to Hold Better Boundaries.mp3",
+    "size": 66855488
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC How to Prevent Sibling Blowouts.mp3",
+    "size": 68604608
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC In a Funk Here_s a Way Out.mp3",
+    "size": 78760448
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC Is Your Kid Ready for the Potty (2).mp3",
+    "size": 70868288
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC Is Your Kid Too Young for Chores.mp3",
+    "size": 79324928
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC Navigating Kids_ Grief.mp3",
+    "size": 79474688
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC Parent Self-Regulation.mp3",
+    "size": 74708288
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC Simplify Your Home.mp3",
+    "size": 65930048
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC The Importance of Exercise.mp3",
+    "size": 89477888
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/EC Why Won_t My Kid Sleep!.mp3",
+    "size": 74638208
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/Balancing Blended Families.pdf",
+    "size": 105341
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/Body Boundaries & Sexuality.pdf",
+    "size": 197576
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/Bringing Home Baby.pdf",
+    "size": 136253
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/Connecting While Burned Out.pdf",
+    "size": 118096
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/Dealing with School Shootings.pdf",
+    "size": 171678
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/Does Handwriting Have You Wringing Your Hands_.pdf",
+    "size": 132884
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/Extracurriculars_ To Push or Not to Push.pdf",
+    "size": 119418
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/How Do I Get My Kid to Eat_.pdf",
+    "size": 120051
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/How to Get Your Kid to Listen.pdf",
+    "size": 104704
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/How to Help Babies Sleep.pdf",
+    "size": 217521
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/How to Hold Better Boundaries.pdf",
+    "size": 122956
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/How to Prevent Sibling Blowouts.pdf",
+    "size": 108818
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/In a Funk_ Here_s a Way Out.pdf",
+    "size": 114491
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/Is Your Kid Ready for the Potty_.pdf",
+    "size": 143357
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/Is Your Kid Too Young for Chores_.pdf",
+    "size": 142874
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/Navigating Kids_ Grief.pdf",
+    "size": 127933
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/Parent Self-Regulation.pdf",
+    "size": 137722
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/Simplify Your Home.pdf",
+    "size": 117953
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/The Importance of Exercise.pdf",
+    "size": 126247
+  },
+  {
+    "path": "assets/podcasts/Expert Chats/Transcripts/Why Won_t My Kid Sleep_!.pdf",
+    "size": 117129
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/1 Building Your Screen Time Plan.mp3",
+    "size": 13006358
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/2 Health Impacts of Screens.mp3",
+    "size": 18659627
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/3 Using Tech to Connect 0-5.mp3",
+    "size": 30520448
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/3 Using Tech to Connect 6-12.mp3",
+    "size": 23610368
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/4 Screen Rule Recommendations 0-5.mp3",
+    "size": 31085888
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/4 Screen Rule Recommendations 6-12.mp3",
+    "size": 27245888
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/5 Balancing Tech School & Home.mp3",
+    "size": 30755648
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/6 Choosing Appropriate Media 0-5.mp3",
+    "size": 35367488
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/6 Choosing Appropriate Media 10-12.mp3",
+    "size": 33413888
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/6 Choosing Appropriate Media 6-9.mp3",
+    "size": 26343380
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/Transcripts/E01 Building Your Screen Time Plan.pdf",
+    "size": 71786
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/Transcripts/E02 Health Impacts of Screens.pdf",
+    "size": 148864
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/Transcripts/E03 Using Tech to Connect (Age 0-5).pdf",
+    "size": 103530
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/Transcripts/E04 Using Tech to Connect (Age 6-12).pdf",
+    "size": 85523
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/Transcripts/E05 Screen Rule Recommendations (Age 0-5).pdf",
+    "size": 399233
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/Transcripts/E06 Screen Rule Recommendations (Age 6-12).pdf",
+    "size": 99002
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/Transcripts/E07 Balancing Tech_ School & Home (Age 6-12).pdf",
+    "size": 137869
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/Transcripts/E08 Choosing Appropriate Media (Age 0-5).pdf",
+    "size": 106054
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/Transcripts/E09 Choosing Appropriate Media (Age 6-9).pdf",
+    "size": 94880
+  },
+  {
+    "path": "assets/podcasts/Fostering Healthy Screen Habits/Transcripts/E10 Choosing Appropriate Media (Age 10-12).pdf",
+    "size": 120074
+  },
+  {
+    "path": "assets/podcasts/Healthy Sleep for Growing Kids/E01 Mastering Family Sleep.mp3",
+    "size": 33104324
+  },
+  {
+    "path": "assets/podcasts/Healthy Sleep for Growing Kids/E02 Sleep Smarter, Not Longer.mp3",
+    "size": 33460328
+  },
+  {
+    "path": "assets/podcasts/Healthy Sleep for Growing Kids/E03 Creating Sleep Sanctuaries.mp3",
+    "size": 41294504
+  },
+  {
+    "path": "assets/podcasts/Healthy Sleep for Growing Kids/E04 Teaching Lifelong Sleep Habits.mp3",
+    "size": 37671824
+  },
+  {
+    "path": "assets/podcasts/Healthy Sleep for Growing Kids/E05 Managing Kids_ Sleep Struggles.mp3",
+    "size": 38590544
+  },
+  {
+    "path": "assets/podcasts/Healthy Sleep for Growing Kids/E06 To Nap or Not To Nap (Age 3-6).mp3",
+    "size": 37920296
+  },
+  {
+    "path": "assets/podcasts/Healthy Sleep for Growing Kids/E07 To Nap or Not To Nap (Age 7-12).mp3",
+    "size": 35020064
+  },
+  {
+    "path": "assets/podcasts/Healthy Sleep for Growing Kids/Transcripts/E01 Mastering Family Sleep.pdf",
+    "size": 165371
+  },
+  {
+    "path": "assets/podcasts/Healthy Sleep for Growing Kids/Transcripts/E02 Sleep Smarter, Not Longer.pdf",
+    "size": 174865
+  },
+  {
+    "path": "assets/podcasts/Healthy Sleep for Growing Kids/Transcripts/E03 Creating Sleep Sanctuaries.pdf",
+    "size": 292835
+  },
+  {
+    "path": "assets/podcasts/Healthy Sleep for Growing Kids/Transcripts/E04 Teaching Lifelong Sleep Habits.pdf",
+    "size": 192610
+  },
+  {
+    "path": "assets/podcasts/Healthy Sleep for Growing Kids/Transcripts/E05 Managing Kids_ Sleep Struggles.pdf",
+    "size": 242649
+  },
+  {
+    "path": "assets/podcasts/Healthy Sleep for Growing Kids/Transcripts/E06 To Nap or Not To Nap (Age 3-6).pdf",
+    "size": 182650
+  },
+  {
+    "path": "assets/podcasts/Healthy Sleep for Growing Kids/Transcripts/E07 To Nap or Not To Nap (Age 7-12).pdf",
+    "size": 232815
+  },
+  {
+    "path": "assets/podcasts/Improving Adult Communication/1 Navigating Relationship Challenges.mp3",
+    "size": 14742329
+  },
+  {
+    "path": "assets/podcasts/Improving Adult Communication/2 Learning to Truly Listen.mp3",
+    "size": 37582040
+  },
+  {
+    "path": "assets/podcasts/Improving Adult Communication/3 Healthy Conflict Resolution Tips Pt. 1.mp3",
+    "size": 14008409
+  },
+  {
+    "path": "assets/podcasts/Improving Adult Communication/4 Healthy Conflict Resolution Tips Pt. 2.mp3",
+    "size": 15191021
+  },
+  {
+    "path": "assets/podcasts/Improving Adult Communication/5 Understanding Love Languages.mp3",
+    "size": 15310283
+  },
+  {
+    "path": "assets/podcasts/Improving Adult Communication/6 Sex After Kids.mp3",
+    "size": 14080133
+  },
+  {
+    "path": "assets/podcasts/Improving Adult Communication/7 Affection, Admiration & Appreciation.mp3",
+    "size": 30989180
+  },
+  {
+    "path": "assets/podcasts/Improving Adult Communication/Transcripts/Affection, Admiration & Appreciation.pdf",
+    "size": 180837
+  },
+  {
+    "path": "assets/podcasts/Improving Adult Communication/Transcripts/Healthy Conflict Resolution Tips Pt. 1.pdf",
+    "size": 178950
+  },
+  {
+    "path": "assets/podcasts/Improving Adult Communication/Transcripts/Healthy Conflict Resolution Tips Pt. 2.pdf",
+    "size": 170831
+  },
+  {
+    "path": "assets/podcasts/Improving Adult Communication/Transcripts/Learning to Truly Listen.pdf",
+    "size": 161380
+  },
+  {
+    "path": "assets/podcasts/Improving Adult Communication/Transcripts/Navigating Relationship Challenges.pdf",
+    "size": 166905
+  },
+  {
+    "path": "assets/podcasts/Improving Adult Communication/Transcripts/Sex After Kids.pdf",
+    "size": 168237
+  },
+  {
+    "path": "assets/podcasts/Improving Adult Communication/Transcripts/Understanding Love Languages.pdf",
+    "size": 165553
+  },
+  {
+    "path": "assets/podcasts/Listening for the Why in Whining/E01 What Whining Really Means.mp3",
+    "size": 11053964
+  },
+  {
+    "path": "assets/podcasts/Listening for the Why in Whining/E02 Why Kids Complain.mp3",
+    "size": 9329252
+  },
+  {
+    "path": "assets/podcasts/Listening for the Why in Whining/E03 Whining Tools & Tactics (Age 0-5).mp3",
+    "size": 11921741
+  },
+  {
+    "path": "assets/podcasts/Listening for the Why in Whining/E04 Whining Tools & Tactics (Age 6-9).mp3",
+    "size": 12231155
+  },
+  {
+    "path": "assets/podcasts/Listening for the Why in Whining/E05 Repairing After You Snap.mp3",
+    "size": 30090296
+  },
+  {
+    "path": "assets/podcasts/Listening for the Why in Whining/Transcripts/E01 What Whining Really Means.pdf",
+    "size": 124405
+  },
+  {
+    "path": "assets/podcasts/Listening for the Why in Whining/Transcripts/E02 Why Kids Complain.pdf",
+    "size": 124593
+  },
+  {
+    "path": "assets/podcasts/Listening for the Why in Whining/Transcripts/E03 Whining Tools & Tactics (Age 0-5).pdf",
+    "size": 133958
+  },
+  {
+    "path": "assets/podcasts/Listening for the Why in Whining/Transcripts/E04 Whining Tools & Tactics (Age 6-9).pdf",
+    "size": 137552
+  },
+  {
+    "path": "assets/podcasts/Listening for the Why in Whining/Transcripts/E05 Repairing After You Snap.pdf",
+    "size": 132745
+  },
+  {
+    "path": "assets/podcasts/Navigating Picky Eating/E01 Demystifying Picky Eating.mp3",
+    "size": 12284948
+  },
+  {
+    "path": "assets/podcasts/Navigating Picky Eating/E02 Why Kids Reject Foods.mp3",
+    "size": 29081408
+  },
+  {
+    "path": "assets/podcasts/Navigating Picky Eating/E03 When to Get Help.mp3",
+    "size": 32083328
+  },
+  {
+    "path": "assets/podcasts/Navigating Picky Eating/E04 You Provide, They Decide.mp3",
+    "size": 10617365
+  },
+  {
+    "path": "assets/podcasts/Navigating Picky Eating/E05 Making Mealtime Fun.mp3",
+    "size": 28706048
+  },
+  {
+    "path": "assets/podcasts/Navigating Picky Eating/E06 Managing Picky on Principle.mp3",
+    "size": 29460608
+  },
+  {
+    "path": "assets/podcasts/Navigating Picky Eating/Transripts/E01 Demystifying Picky Eating.pdf",
+    "size": 103651
+  },
+  {
+    "path": "assets/podcasts/Navigating Picky Eating/Transripts/E02 Why Kids Reject Foods.pdf",
+    "size": 107115
+  },
+  {
+    "path": "assets/podcasts/Navigating Picky Eating/Transripts/E03 When to Get Help.pdf",
+    "size": 80610
+  },
+  {
+    "path": "assets/podcasts/Navigating Picky Eating/Transripts/E04 You Provide, They Decide.pdf",
+    "size": 56214
+  },
+  {
+    "path": "assets/podcasts/Navigating Picky Eating/Transripts/E05 Making Mealtime Fun.pdf",
+    "size": 77584
+  },
+  {
+    "path": "assets/podcasts/Navigating Picky Eating/Transripts/E06 Managing Picky on Principle.pdf",
+    "size": 64326
+  },
+  {
+    "path": "assets/podcasts/Parenting Burnout_ Finding New Light/1 Parenting Burnout Pt. 1.mp3",
+    "size": 25081029
+  },
+  {
+    "path": "assets/podcasts/Parenting Burnout_ Finding New Light/2 Parenting Burnout Pt. 2.mp3",
+    "size": 26321456
+  },
+  {
+    "path": "assets/podcasts/Parenting Burnout_ Finding New Light/3 Parenting Burnout Pt. 3.mp3",
+    "size": 22185128
+  },
+  {
+    "path": "assets/podcasts/Parenting Burnout_ Finding New Light/Transcripts/Parenting Burnout Pt. 1.pdf",
+    "size": 104184
+  },
+  {
+    "path": "assets/podcasts/Parenting Burnout_ Finding New Light/Transcripts/Parenting Burnout Pt. 2.pdf",
+    "size": 100303
+  },
+  {
+    "path": "assets/podcasts/Parenting Burnout_ Finding New Light/Transcripts/Parenting Burnout Pt. 3.pdf",
+    "size": 95432
+  },
+  {
+    "path": "assets/podcasts/Potty Training Science & Strategies/1 Brains, Bladders, & Bowels.mp3",
+    "size": 32594852
+  },
+  {
+    "path": "assets/podcasts/Potty Training Science & Strategies/2 Reading Potty Cues.mp3",
+    "size": 10031063
+  },
+  {
+    "path": "assets/podcasts/Potty Training Science & Strategies/3 Patience in Potty Training.mp3",
+    "size": 24917276
+  },
+  {
+    "path": "assets/podcasts/Potty Training Science & Strategies/4 Bedwetting Strategies & Solutions.mp3",
+    "size": 29554998
+  },
+  {
+    "path": "assets/podcasts/Potty Training Science & Strategies/5 Navigating Toddler Transitions.mp3",
+    "size": 13708586
+  },
+  {
+    "path": "assets/podcasts/Potty Training Science & Strategies/Transcripts/1 Brains, Bladders, & Bowels.pdf",
+    "size": 136860
+  },
+  {
+    "path": "assets/podcasts/Potty Training Science & Strategies/Transcripts/2 Reading Potty Cues.pdf",
+    "size": 124989
+  },
+  {
+    "path": "assets/podcasts/Potty Training Science & Strategies/Transcripts/3 Patience in Potty Training.pdf",
+    "size": 104607
+  },
+  {
+    "path": "assets/podcasts/Potty Training Science & Strategies/Transcripts/4 Bedwetting Strategies & Solutions.pdf",
+    "size": 140413
+  },
+  {
+    "path": "assets/podcasts/Potty Training Science & Strategies/Transcripts/5 Navigating Toddler Transitions.pdf",
+    "size": 121840
+  },
+  {
+    "path": "assets/podcasts/Preparing for a New Sibling/1 Breaking the Baby News.mp3",
+    "size": 31267328
+  },
+  {
+    "path": "assets/podcasts/Preparing for a New Sibling/2 Preparing the Family.mp3",
+    "size": 28063750
+  },
+  {
+    "path": "assets/podcasts/Preparing for a New Sibling/3 Birthing Plans and Introductions.mp3",
+    "size": 26665079
+  },
+  {
+    "path": "assets/podcasts/Preparing for a New Sibling/4 Post-Baby Self Care.mp3",
+    "size": 25379590
+  },
+  {
+    "path": "assets/podcasts/Preparing for a New Sibling/5 Big Sibs, Big Feelings.mp3",
+    "size": 27169088
+  },
+  {
+    "path": "assets/podcasts/Preparing for a New Sibling/Transcripts/1 Breaking the Baby News.pdf",
+    "size": 112973
+  },
+  {
+    "path": "assets/podcasts/Preparing for a New Sibling/Transcripts/2 Preparing the Family.pdf",
+    "size": 105041
+  },
+  {
+    "path": "assets/podcasts/Preparing for a New Sibling/Transcripts/3 Birthing Plans and Introductions.pdf",
+    "size": 73229
+  },
+  {
+    "path": "assets/podcasts/Preparing for a New Sibling/Transcripts/4 Post-Baby Self Care.pdf",
+    "size": 87162
+  },
+  {
+    "path": "assets/podcasts/Preparing for a New Sibling/Transcripts/5 Big Siblings, Big Feelings.pdf",
+    "size": 94783
+  },
+  {
+    "path": "assets/podcasts/Processing Grief with Kids/1 How Grief Affects Us.mp3",
+    "size": 31528448
+  },
+  {
+    "path": "assets/podcasts/Processing Grief with Kids/2 How Children Grieve.mp3",
+    "size": 36797888
+  },
+  {
+    "path": "assets/podcasts/Processing Grief with Kids/3 Connecting While Grieving.mp3",
+    "size": 25019589
+  },
+  {
+    "path": "assets/podcasts/Processing Grief with Kids/Transcripts/1 How Grief Affects Us.pdf",
+    "size": 95307
+  },
+  {
+    "path": "assets/podcasts/Processing Grief with Kids/Transcripts/2 How Children Grieve.pdf",
+    "size": 104439
+  },
+  {
+    "path": "assets/podcasts/Processing Grief with Kids/Transcripts/3 Connecting While Grieving.pdf",
+    "size": 70311
+  },
+  {
+    "path": "assets/podcasts/Raising Happy Kids Between Two Homes/1 Committing to Co-parenting.mp3",
+    "size": 14797790
+  },
+  {
+    "path": "assets/podcasts/Raising Happy Kids Between Two Homes/2 Healing After Heartbreak.mp3",
+    "size": 15480002
+  },
+  {
+    "path": "assets/podcasts/Raising Happy Kids Between Two Homes/3 Putting Your Child_s Needs First.mp3",
+    "size": 16178477
+  },
+  {
+    "path": "assets/podcasts/Raising Happy Kids Between Two Homes/4 Co-parenting Essentials.mp3",
+    "size": 38996660
+  },
+  {
+    "path": "assets/podcasts/Raising Happy Kids Between Two Homes/5 Splitting Time.mp3",
+    "size": 15470411
+  },
+  {
+    "path": "assets/podcasts/Raising Happy Kids Between Two Homes/6 Vacations and Holidays.mp3",
+    "size": 15915767
+  },
+  {
+    "path": "assets/podcasts/Raising Happy Kids Between Two Homes/7 Finding Joy in Co-parenting.mp3",
+    "size": 32229452
+  },
+  {
+    "path": "assets/podcasts/Raising Happy Kids Between Two Homes/8 Parallel Parenting.mp3",
+    "size": 36841072
+  },
+  {
+    "path": "assets/podcasts/Raising Happy Kids Between Two Homes/Transcripts/1 Committing to Co-parenting.pdf",
+    "size": 165944
+  },
+  {
+    "path": "assets/podcasts/Raising Happy Kids Between Two Homes/Transcripts/2 Healing After Heartbreak.pdf",
+    "size": 125704
+  },
+  {
+    "path": "assets/podcasts/Raising Happy Kids Between Two Homes/Transcripts/3 Putting Your Child_s Needs First.pdf",
+    "size": 143360
+  },
+  {
+    "path": "assets/podcasts/Raising Happy Kids Between Two Homes/Transcripts/4 Co-parenting Essentials.pdf",
+    "size": 145111
+  },
+  {
+    "path": "assets/podcasts/Raising Happy Kids Between Two Homes/Transcripts/5 Splitting Time.pdf",
+    "size": 308587
+  },
+  {
+    "path": "assets/podcasts/Raising Happy Kids Between Two Homes/Transcripts/6 Vacations and Holidays.pdf",
+    "size": 260256
+  },
+  {
+    "path": "assets/podcasts/Raising Happy Kids Between Two Homes/Transcripts/7 Finding Joy in Co-parenting.pdf",
+    "size": 267372
+  },
+  {
+    "path": "assets/podcasts/Raising Happy Kids Between Two Homes/Transcripts/8 Parallel Parenting.pdf",
+    "size": 280610
+  },
+  {
+    "path": "assets/podcasts/Sibling Rivalry_ From Foes to Friends/1 Why Sibling Relationships Matter.mp3",
+    "size": 23657350
+  },
+  {
+    "path": "assets/podcasts/Sibling Rivalry_ From Foes to Friends/2 What’s Behind Sibling Rivalry.mp3",
+    "size": 26930950
+  },
+  {
+    "path": "assets/podcasts/Sibling Rivalry_ From Foes to Friends/3 Coaching Siblings Through Conflict.mp3",
+    "size": 23061190
+  },
+  {
+    "path": "assets/podcasts/Sibling Rivalry_ From Foes to Friends/4 Building Social Skills.mp3",
+    "size": 27513670
+  },
+  {
+    "path": "assets/podcasts/Sibling Rivalry_ From Foes to Friends/5 From Foes to Friends.mp3",
+    "size": 26128448
+  },
+  {
+    "path": "assets/podcasts/Sibling Rivalry_ From Foes to Friends/Transcripts/1 Why Sibling Relationships Matter.pdf",
+    "size": 111959
+  },
+  {
+    "path": "assets/podcasts/Sibling Rivalry_ From Foes to Friends/Transcripts/2 What’s Behind Sibling Rivalry.pdf",
+    "size": 96085
+  },
+  {
+    "path": "assets/podcasts/Sibling Rivalry_ From Foes to Friends/Transcripts/3 Coaching Siblings Through Conflict.pdf",
+    "size": 111960
+  },
+  {
+    "path": "assets/podcasts/Sibling Rivalry_ From Foes to Friends/Transcripts/4 Building Social Skills.pdf",
+    "size": 94959
+  },
+  {
+    "path": "assets/podcasts/Sibling Rivalry_ From Foes to Friends/Transcripts/5 From Foes to Friends.pdf",
+    "size": 89599
+  },
+  {
+    "path": "assets/podcasts/Supporting Gender Identity/1 Your Gender Story Matters.mp3",
+    "size": 27111764
+  },
+  {
+    "path": "assets/podcasts/Supporting Gender Identity/2 Gender is a Journey 0-5.mp3",
+    "size": 30976652
+  },
+  {
+    "path": "assets/podcasts/Supporting Gender Identity/2 Gender is a Journey 10-12.mp3",
+    "size": 33548024
+  },
+  {
+    "path": "assets/podcasts/Supporting Gender Identity/2 Gender is a Journey 6-9.mp3",
+    "size": 33031244
+  },
+  {
+    "path": "assets/podcasts/Supporting Gender Identity/3 Tuning Into Gender Stereotypes.mp3",
+    "size": 36675848
+  },
+  {
+    "path": "assets/podcasts/Supporting Gender Identity/4 Challenging Gender Assumptions.mp3",
+    "size": 15503579
+  },
+  {
+    "path": "assets/podcasts/Supporting Gender Identity/5 Decoding the Gender Messages.mp3",
+    "size": 32952944
+  },
+  {
+    "path": "assets/podcasts/Supporting Gender Identity/6 A Safe Space for Expression.mp3",
+    "size": 39973844
+  },
+  {
+    "path": "assets/podcasts/Supporting Gender Identity/7 Navigating Gender in School.mp3",
+    "size": 14099732
+  },
+  {
+    "path": "assets/podcasts/Supporting Gender Identity/Transcripts/1 Your Gender Story Matters.pdf",
+    "size": 90823
+  },
+  {
+    "path": "assets/podcasts/Supporting Gender Identity/Transcripts/2 Gender is a Journey 0-5.pdf",
+    "size": 131630
+  },
+  {
+    "path": "assets/podcasts/Supporting Gender Identity/Transcripts/2 Gender is a Journey 10-12.pdf",
+    "size": 131432
+  },
+  {
+    "path": "assets/podcasts/Supporting Gender Identity/Transcripts/2 Gender is a Journey 6-9.pdf",
+    "size": 125875
+  },
+  {
+    "path": "assets/podcasts/Supporting Gender Identity/Transcripts/3 Tuning Into Gender Stereotypes.pdf",
+    "size": 141639
+  },
+  {
+    "path": "assets/podcasts/Supporting Gender Identity/Transcripts/4 Challenging Gender Assumptions.pdf",
+    "size": 135037
+  },
+  {
+    "path": "assets/podcasts/Supporting Gender Identity/Transcripts/5 Decoding the Gender Messages.pdf",
+    "size": 165587
+  },
+  {
+    "path": "assets/podcasts/Supporting Gender Identity/Transcripts/6 A Safe Space for Expression.pdf",
+    "size": 130042
+  },
+  {
+    "path": "assets/podcasts/Supporting Gender Identity/Transcripts/7 Navigating Gender in School.pdf",
+    "size": 120043
+  },
+  {
+    "path": "assets/podcasts/Taking the Pressure Off Meal Prep/1 Mealtime Myth vs. Reality.mp3",
+    "size": 12101885
+  },
+  {
+    "path": "assets/podcasts/Taking the Pressure Off Meal Prep/2 Mastering Meal Planning.mp3",
+    "size": 12369599
+  },
+  {
+    "path": "assets/podcasts/Taking the Pressure Off Meal Prep/3 Kitchen Efficiency 101.mp3",
+    "size": 28051364
+  },
+  {
+    "path": "assets/podcasts/Taking the Pressure Off Meal Prep/4 Practicing Food Safety.mp3",
+    "size": 9805466
+  },
+  {
+    "path": "assets/podcasts/Taking the Pressure Off Meal Prep/5 Balancing Kitchen Duties.mp3",
+    "size": 13270319
+  },
+  {
+    "path": "assets/podcasts/Taking the Pressure Off Meal Prep/Transcripts/1 Mealtime Myth vs. Reality.pdf",
+    "size": 105816
+  },
+  {
+    "path": "assets/podcasts/Taking the Pressure Off Meal Prep/Transcripts/2 Mastering Meal Planning.pdf",
+    "size": 121686
+  },
+  {
+    "path": "assets/podcasts/Taking the Pressure Off Meal Prep/Transcripts/3 Kitchen Efficiency 101.pdf",
+    "size": 96606
+  },
+  {
+    "path": "assets/podcasts/Taking the Pressure Off Meal Prep/Transcripts/4 Practicing Food Safety.pdf",
+    "size": 90484
+  },
+  {
+    "path": "assets/podcasts/Taking the Pressure Off Meal Prep/Transcripts/5 Balancing Kitchen Duties.pdf",
+    "size": 108908
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/E01 Avoiding Discipline Pitfalls.mp3",
+    "size": 31788884
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/E02 The Trouble with Spanking.mp3",
+    "size": 13399172
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/E03 The Power of Predictability (Age 0-5).mp3",
+    "size": 14247350
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/E04 The Power of Predictability (Age 6-9).mp3",
+    "size": 15220628
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/E05 The Power of Predictability (Age 10-12).mp3",
+    "size": 11777459
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/E06 Teaching, Not Threatening (Age 6-9).mp3",
+    "size": 13804913
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/E07 Teaching, Not Threatening (Age 10-12).mp3",
+    "size": 12236576
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/E08 Timeouts_ Helpful or Harmful_ (Age 0-9).mp3",
+    "size": 32534300
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/E09 Timeouts_ Helpful or Harmful_ (Age 10-12).mp3",
+    "size": 12370850
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/E10 Trust-Building Family Talks (Age 6-12).mp3",
+    "size": 11761613
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/E11 Balancing Guidance with Freedom (Age 6-12).mp3",
+    "size": 28629740
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/Transcripts/E01 Avoiding Discipline Pitfalls.pdf",
+    "size": 138705
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/Transcripts/E02 The Trouble with Spanking.pdf",
+    "size": 140172
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/Transcripts/E03 The Power of Predictability (Age 0-5).pdf",
+    "size": 175661
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/Transcripts/E04 The Power of Predictability (Age 6-9).pdf",
+    "size": 167375
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/Transcripts/E05 The Power of Predictability (Age 10-12).pdf",
+    "size": 132629
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/Transcripts/E06 Teaching, Not Threatening (Age 6-9).pdf",
+    "size": 145962
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/Transcripts/E07 Teaching, Not Threatening (Age 10-12).pdf",
+    "size": 142067
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/Transcripts/E08 Timeouts_ Helpful or Harmful_ (Age 0-9).pdf",
+    "size": 128101
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/Transcripts/E09 Timeouts_ Helpful or Harmful_ (Age 10-12).pdf",
+    "size": 132206
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/Transcripts/E10 Trust-Building Family Talks (Age 6-12).pdf",
+    "size": 128423
+  },
+  {
+    "path": "assets/podcasts/Using Consequences vs Punishments/Transcripts/E11 Balancing Guidance with Freedom (Age 6-12).pdf",
+    "size": 122869
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/E01 Control Isn’t the Goal (Age 0-5).mp3",
+    "size": 9996035
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/E02 Balancing Guidance & Growth (Age 6-12).mp3",
+    "size": 10312121
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/E03 Why Kids Misbehave (Age 0-5).mp3",
+    "size": 34832768
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/E04 Discipline Before Words (Age 2).mp3",
+    "size": 14294054
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/E05 Learning from Meltdowns (Age 0-12).mp3",
+    "size": 11686136
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/E06 Coaching Emotional Intelligence (Age 6-12).mp3",
+    "size": 11857523
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/E07 Key Meltdown Techniques (Age 0-5).mp3",
+    "size": 10754558
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/E08 Embracing Failure (Age 6-9).mp3",
+    "size": 12108140
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/E09 Embracing Failure (Age 10-12).mp3",
+    "size": 10266251
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/E10 Tools for Empowering Kids (Age 0-5).mp3",
+    "size": 28464788
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/E11 Coaching Instead of Disciplining (Age 6-9).mp3",
+    "size": 32024828
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/E12 Coaching Instead of Disciplining (Age 10-12).mp3",
+    "size": 13626854
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/E13 Creating Positive Rituals (Age 6-12).mp3",
+    "size": 28948969
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/Transcripts/E01 Control Isn’t the Goal (Age 0-5).pdf",
+    "size": 97349
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/Transcripts/E02 Balancing Guidance & Growth (Age 6-12).pdf",
+    "size": 167993
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/Transcripts/E03 Why Kids Misbehave (Age 0-5).pdf",
+    "size": 136529
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/Transcripts/E04 Discipline Before Words (Age 2).pdf",
+    "size": 197580
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/Transcripts/E05 Learning from Meltdowns (Age 0-12).pdf",
+    "size": 124527
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/Transcripts/E06 Coaching Emotional Intelligence (Age 6-12).pdf",
+    "size": 206937
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/Transcripts/E07 Key Meltdown Techniques (Age 0-5).pdf",
+    "size": 104112
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/Transcripts/E08 Embracing Failure (Age 6-9).pdf",
+    "size": 165123
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/Transcripts/E09 Embracing Failure (Age 10-12).pdf",
+    "size": 162229
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/Transcripts/E10 Tools for Empowering Kids (Age 0-5).pdf",
+    "size": 105779
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/Transcripts/E11 Coaching Instead of Disciplining (Age 6-9).pdf",
+    "size": 175195
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/Transcripts/E12 Coaching Instead of Disciplining (Age 10-12).pdf",
+    "size": 177831
+  },
+  {
+    "path": "assets/podcasts/Using Empathy in Discipline/Transcripts/E13 Creating Positive Rituals (Age 6-12).pdf",
+    "size": 182083
+  },
+  {
+    "path": "assets/quizzes/Am I Helping My Child Feel Safe_.pdf",
+    "size": 67152
+  },
+  {
+    "path": "assets/quizzes/Attachment Quiz (Age 0-3).pdf",
+    "size": 140200
+  },
+  {
+    "path": "assets/quizzes/Attachment Quiz (Age 4-12).pdf",
+    "size": 122201
+  },
+  {
+    "path": "assets/quizzes/How Do I Nurture Independence_.pdf",
+    "size": 44330
+  },
+  {
+    "path": "assets/quizzes/How Mindful are My Expectations_.pdf",
+    "size": 53914
+  },
+  {
+    "path": "assets/quizzes/How am I With Boundaries_.pdf",
+    "size": 77463
+  },
+  {
+    "path": "assets/quizzes/How_s My Emotional Connection_.pdf",
+    "size": 55758
+  },
+  {
+    "path": "assets/quizzes/Meltdowns Quiz pts 1 & 2.pdf",
+    "size": 157515
+  },
+  {
+    "path": "assets/quizzes/Personality Quizzes.pdf",
+    "size": 121991
+  },
+  {
+    "path": "assets/quizzes/Picky Eating Quiz pts 1 & 2.pdf",
+    "size": 161925
+  },
+  {
+    "path": "assets/quizzes/Sleep Quiz pts 1 & 2.pdf",
+    "size": 122015
+  },
+  {
+    "path": "assets/quizzes/Temperament Quiz (Age 0-4).pdf",
+    "size": 40868
+  },
+  {
+    "path": "assets/quizzes/Temperament Quiz (Age 5-30).pdf",
+    "size": 53154
+  },
+  {
+    "path": "assets/quizzes/Whining Quizzes pts 1 & 2.pdf",
+    "size": 99381
+  }
+]
